@@ -1,0 +1,4 @@
+detail:
+    path: /items/{id}
+    controller: App\Controller\MainController::show
+    methods:    GET

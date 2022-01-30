@@ -1,0 +1,9 @@
+/config/parameters.yaml
+/public/upload/*
+*help.md
+.idea
+php-cs-fixer.phar
+.php_cs.cache
+.php-cs-fixer.cache
+*.xml
+/vendor
